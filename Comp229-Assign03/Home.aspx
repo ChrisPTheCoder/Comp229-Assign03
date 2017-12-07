@@ -6,6 +6,7 @@
   <source src="../images/InMyHeart.mp3" type="audio/ogg">
   <source src="../images/InMyHeart.mp3" type="audio/mpeg">
 </audio>
+
     <div class="container-fluid bg-1 text-center">
         <h2 id="title" class="margin">♫ TZM Music School ♫ </h2>
         
